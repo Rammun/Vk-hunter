@@ -75,9 +75,9 @@ VkHunter - приложение, для мониторинга пиратско�
 
 ### API
 
-### [Account](Documents/Account.md)
-### [Project](Documents/Project.md)
-### [Search](Documents/Search.md)
-### [Member](Documents/Member.md)
-### [Post](Documents/Post.md)
-### [History](Documents/History.md)
+### [Account](https://github.com/Rammun/Vk-hunter/blob/master/Documents/Account.md)
+### [Project](https://github.com/Rammun/Vk-hunter/blob/master/Documents/Project.md)
+### [Search](https://github.com/Rammun/Vk-hunter/blob/master/Documents/Search.md)
+### [Member](https://github.com/Rammun/Vk-hunter/blob/master/Documents/Member.md)
+### [Post](https://github.com/Rammun/Vk-hunter/blob/master/Documents/Post.md)
+### [History](https://github.com/Rammun/Vk-hunter/blob/master/Documents/History.md)
